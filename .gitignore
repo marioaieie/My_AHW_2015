@@ -1,0 +1,8 @@
+*.[oa]
+*~
+*.dat
+a.out
+*.pyc
+*.fits
+*.zip
+/.ipynb_checkpoints
